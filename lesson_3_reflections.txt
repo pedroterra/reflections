@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+if it's possible I would always prefere to use the remote repository although it migth be usefull for companies to have theirs
+repositories locally.
