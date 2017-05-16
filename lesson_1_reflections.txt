@@ -16,3 +16,8 @@ git log will give me all the commits made in the project. git diff will compare 
 
 >How might using version control make you more confident to make changes that could break something?
 I know that now I can easely find where are the bugs
+
+>Now that you have your workspace set up, what do you want to try using Git for?
+all my projects from udacity
+
+
