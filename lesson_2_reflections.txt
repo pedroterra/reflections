@@ -4,11 +4,17 @@ it creates a place where to save metadata about the commits anc changes in the f
 >How is the staging area different from the working directory and the repository? What value do you think it offers?
 is the place where you focos on the possible commits you want to make as for working directory is more o experimentation
 
-How can you use the staging area to make sure you have one commit per logical change?
+>How can you use the staging area to make sure you have one commit per logical change?
 I can use git status to check how many files are there? not sure though
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+>What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 I can create different versions of the game without runing a previous working file
+
+>How do the diagrams help you visualize the branch structure?
+I can see how every branch relates to each other and wich commit is reachable by a specific branch
+
+>What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+mergiging 2 branches result in the combination of the master branc with an specific branch. in the diagram we represent as two different patch combining into one
 
 
 
