@@ -14,5 +14,9 @@ the benefit is that I can work without too much worry of creating conflicting fi
 >How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I probably would work in the same room as the other person and share the same computer ;)
 
+>When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when I colaborating and would like to see if others would think my changes are interesting I would use a new branch to propose my changes. this has the benefit that would allow other to validade my work before merging into the master branch
+
+
 
 
