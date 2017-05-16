@@ -8,3 +8,7 @@ if the pull is automatically maybe to files saved aren't logically complete ans 
 >Describe the differences between forks, clones, and branches. When would you use one instead of another?
 forks copies a git in GitHub and creates a repository where i can make the modifications I want. clones copies repositories. branches are variations or versions of one projects that can eventually be integrated in the master branch
 
+>What is the benefit of having a copy of the last known state of the remote stored locally?
+the benefit is that I can work without too much worry of creating conflicting files.
+
+
