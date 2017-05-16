@@ -11,4 +11,8 @@ forks copies a git in GitHub and creates a repository where i can make the modif
 >What is the benefit of having a copy of the last known state of the remote stored locally?
 the benefit is that I can work without too much worry of creating conflicting files.
 
+>How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I probably would work in the same room as the other person and share the same computer ;)
+
+
 
