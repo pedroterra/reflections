@@ -16,6 +16,11 @@ I can see how every branch relates to each other and wich commit is reachable by
 >What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 mergiging 2 branches result in the combination of the master branc with an specific branch. in the diagram we represent as two different patch combining into one
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+it's great because it only automatic merge when there is no conflict. manual is prompt when you have to re analize the code been submited
+
+
+
 
 
 
